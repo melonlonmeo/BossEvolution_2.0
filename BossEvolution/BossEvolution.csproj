@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="TerrariaServer">
+      <HintPath>..\lib\TerrariaServer.dll</HintPath>
+    </Reference>
+    <Reference Include="TShockAPI">
+      <HintPath>..\lib\TShockAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="OTAPI">
+      <HintPath>..\lib\OTAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="ModFramework">
+      <HintPath>..\lib\ModFramework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project> 
