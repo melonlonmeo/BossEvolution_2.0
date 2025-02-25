@@ -1,4 +1,4 @@
-# Boss Evolution Plugin for TShock ( V2.0 ) - Update Kill And BOSS
+# Boss Evolution Plugin for TShock ( V2.0 ) - Update SKill And BOSS
 
 ## 🌟 Transform Your Terraria Boss Battles into Epic Adventures! 🌟
 
